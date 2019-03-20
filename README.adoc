@@ -2,11 +2,9 @@
 
 == PHP / Symfony
 
-. [Mémo] Forum PHP 2017 - Écrire des tests pour le long terme +
-(Charles Desneuf) +
+. [Mémo] Forum PHP 2017 - Écrire des tests pour le long terme (Charles Desneuf) +
 https://gist.github.com/jprivet-dev/6d8e8f3a439936816726c5f36e146e4d
-. [Tips] SymfonyLive Paris 2016 - Comment mettre à jour 30 000 produits avec Doctrine2 ? +
-(André Tapia & Amine Mokeddem) +
+. [Tips] SymfonyLive Paris 2016 - Comment mettre à jour 30 000 produits avec Doctrine2 ? (André Tapia & Amine Mokeddem) +
 https://gist.github.com/jprivet-dev/d0c9929378921f642703f2c96fbee0a3
 
 == Autres
