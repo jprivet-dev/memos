@@ -1,0 +1,4 @@
+= Listing de mes mémos, tips et autres
+
+* [Tips] SymfonyLive Paris 2016 - Comment mettre à jour 30 000 produits avec Doctrine2 ? +
+https://gist.github.com/jprivet-dev/d0c9929378921f642703f2c96fbee0a3
