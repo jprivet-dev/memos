@@ -9,10 +9,18 @@ https://gist.github.com/jprivet-dev/d0c9929378921f642703f2c96fbee0a3
 . [Mémo] AFUP - PHP Tour 2012 - Symfony, Design Pattern Observer, injection de dépendance et Service Locator (Hugo Hamon) +
 https://gist.github.com/jprivet-dev/8ced5058f843074b88a0dbe90ec1112d
 
-== Autres
+== Git
+
+. Git and Bash aliases defined and documented in a single `.bash_aliases` file, with Git auto-completion +
+https://gist.github.com/jprivet-dev/09912ca4188a4ba3c610d7f61c200c38
+
+== Markdown & Asciidoctor
 
 . [Cheatsheet] Markdown & Asciidoctor rendering in GitHub +
 https://gist.github.com/jprivet-dev/88c9c74561e78c2a7f06858e1eac56ff
+
+== Autres
+
 . Shorcuts (PHPStorm, Chrome, …) +
 https://gist.github.com/jprivet-dev/87fcc531644243b7026d32e86740d8a7
 
