@@ -14,6 +14,9 @@ https://gist.github.com/jprivet-dev/8ced5058f843074b88a0dbe90ec1112d
 . Git and Bash aliases defined and documented in a single `.bash_aliases` file, with Git auto-completion +
 https://gist.github.com/jprivet-dev/09912ca4188a4ba3c610d7f61c200c38
 
+. Transfer a Gist into a new GitHub repository +
+https://gist.github.com/jprivet-dev/6e7e81c3c0497a6292dd760559840fb1
+
 == Markdown & Asciidoctor
 
 . [Cheatsheet] Markdown & Asciidoctor rendering in GitHub +
