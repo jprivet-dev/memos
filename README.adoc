@@ -17,6 +17,9 @@ https://gist.github.com/jprivet-dev/09912ca4188a4ba3c610d7f61c200c38
 . Transfer a Gist into a new GitHub repository +
 https://gist.github.com/jprivet-dev/6e7e81c3c0497a6292dd760559840fb1
 
+. Set up a global .gitignore file to avoid committing files like .DS_Store, Vim swp files, PHPStorm idea files, etc +
+https://gist.github.com/jprivet-dev/441ca36c4368fe72d52de993aa0dfe47
+
 == Markdown & Asciidoctor
 
 . [Cheatsheet] Markdown & Asciidoctor rendering in GitHub +
