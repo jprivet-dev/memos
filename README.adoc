@@ -1,5 +1,10 @@
 = Listing de mes mémos, tips et autres
 
+== Angular / NgRx
+
+. [Mémo] GDG Toulouse - Faire du Redux avec Angular et NgRx v4 (Bruno Baia) +
+https://gist.github.com/jprivet-dev/14c32852313b310d6e60c3e92b733c26
+
 == PHP / Symfony
 
 . [Mémo] Forum PHP 2017 - Écrire des tests pour le long terme (Charles Desneuf) +
