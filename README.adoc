@@ -25,6 +25,9 @@ https://gist.github.com/jprivet-dev/6e7e81c3c0497a6292dd760559840fb1
 . Set up a global .gitignore file to avoid committing files like .DS_Store, Vim swp files, PHPStorm idea files, etc +
 https://gist.github.com/jprivet-dev/441ca36c4368fe72d52de993aa0dfe47
 
+. Composer: Generate a Github Oauth token for privately hosted packages and repositories +
+https://gist.github.com/jprivet-dev/26e27af0b5fb3e2c219c9fe1ebcf793f
+
 == Markdown & Asciidoctor
 
 . [Cheatsheet] Markdown & Asciidoctor rendering in GitHub +
