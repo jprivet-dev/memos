@@ -33,6 +33,9 @@ https://gist.github.com/jprivet-dev/26e27af0b5fb3e2c219c9fe1ebcf793f
 . [Cheatsheet] Markdown & Asciidoctor rendering in GitHub +
 https://gist.github.com/jprivet-dev/88c9c74561e78c2a7f06858e1eac56ff
 
+. README.adoc for GitHub (startup Asciidoctor template) +
+https://gist.github.com/jprivet-dev/c4ab3272506a4e1eb05dd11dcb117eaf
+
 == Autres
 
 . Shorcuts (PHPStorm, Chrome, …) +
