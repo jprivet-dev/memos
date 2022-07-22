@@ -1,4 +1,4 @@
-= Listing de mes mémos, tips et autres
+= Listing of my memos, tips and others (Some of them in French)
 
 == Angular / NgRx
 
@@ -36,7 +36,12 @@ https://gist.github.com/jprivet-dev/88c9c74561e78c2a7f06858e1eac56ff
 . README.adoc for GitHub (startup Asciidoctor template) +
 https://gist.github.com/jprivet-dev/c4ab3272506a4e1eb05dd11dcb117eaf
 
-== Autres
+== KDE
+
+. KDE Memento +
+https://gist.github.com/jprivet-dev/942d8b0a50693dd8860f3da80f411c70
+
+== Others
 
 . Shorcuts (PHPStorm, Chrome, …) +
 https://gist.github.com/jprivet-dev/87fcc531644243b7026d32e86740d8a7
