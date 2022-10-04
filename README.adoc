@@ -38,7 +38,7 @@ https://gist.github.com/jprivet-dev/c4ab3272506a4e1eb05dd11dcb117eaf
 
 == KDE
 
-. KDE Memento +
+. KDE Memento (Install Chrome, ...) +
 https://gist.github.com/jprivet-dev/942d8b0a50693dd8860f3da80f411c70
 
 == Others
